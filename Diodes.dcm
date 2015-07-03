@@ -1,0 +1,76 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP D
+D Diode
+$ENDCMP
+#
+$CMP D_Schottky
+D Diode schottky
+$ENDCMP
+#
+$CMP D_Schottky_x2_ACom_AKK
+D Double diode Shottky (Serie)
+K DEV DIODE
+$ENDCMP
+#
+$CMP D_Schottky_x2_ACom_KAK
+D Double diode Shottky (Serie)
+K DEV DIODE
+$ENDCMP
+#
+$CMP D_Schottky_x2_ACom_KKA
+D Double diode Shottky (Serie)
+K DEV DIODE
+$ENDCMP
+#
+$CMP D_Schottky_x2_KCom_AAK
+D Double diode Shottky (Serie)
+K DEV DIODE
+$ENDCMP
+#
+$CMP D_Schottky_x2_KCom_AKA
+D Double diode Shottky (Serie)
+K DEV DIODE
+$ENDCMP
+#
+$CMP D_Schottky_x2_KCom_KAA
+D Double diode Shottky (Serie)
+K DEV DIODE
+$ENDCMP
+#
+$CMP D_Schottky_x2_Serial_ACK
+D Double diode Shottky (Serie)
+K DEV DIODE
+$ENDCMP
+#
+$CMP D_Schottky_x2_Serial_AKC
+D Double diode Shottky (Serie)
+K DEV DIODE
+$ENDCMP
+#
+$CMP D_Schottky_x2_Serial_CAK
+D Double diode Shottky (Serie)
+K DEV DIODE
+$ENDCMP
+#
+$CMP D_Schottky_x2_Serial_CKA
+D Double diode Shottky (Serie)
+K DEV DIODE
+$ENDCMP
+#
+$CMP D_Schottky_x2_Serial_KAC
+D Double diode Shottky (Serie)
+K DEV DIODE
+$ENDCMP
+#
+$CMP D_Schottky_x2_Serial_KCA
+D Double diode Shottky (Serie)
+K DEV DIODE
+$ENDCMP
+#
+$CMP ZENER
+D Diode zener
+K DEV DIODE
+$ENDCMP
+#
+#End Doc Library
