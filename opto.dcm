@@ -117,6 +117,20 @@ K Isolated Linear Photocoupler
 F http://www.vishay.com/docs/83622/il300.pdf
 $ENDCMP
 #
+$CMP LED
+K LED
+$ENDCMP
+#
+$CMP LED_RABG
+D Common Anode RGB LED
+K RGB LED
+$ENDCMP
+#
+$CMP LED_RCBG
+D Common Cathode RGB LED
+K RGB LED
+$ENDCMP
+#
 $CMP LTV-352T
 D LTV-352T, MFSOP6, DC Darlington Optocoupler, Vce 300V, CTR 1000%
 K NPN Darlington DC Optocoupler
@@ -178,6 +192,16 @@ $CMP LTV-847
 D LTV-847, DIP-16, Quad DC Optocoupler, Vce 35V, CTR 50%
 K NPN DC Quad Optocoupler
 F http://www.us.liteon.com/downloads/LTV-817-827-847.PDF
+$ENDCMP
+#
+$CMP Led_RGB_CA
+D Common Anode RGB LED
+K RGB LED
+$ENDCMP
+#
+$CMP Led_x2
+D LED DOUBLE type Bicolore
+K LED
 $ENDCMP
 #
 $CMP MOC3010M

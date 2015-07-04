@@ -8,6 +8,11 @@ $CMP CP1
 D Polarised capacitor
 $ENDCMP
 #
+$CMP POT
+D Potentionmetre
+K R
+$ENDCMP
+#
 $CMP R
 D Resistor
 K R DEV
@@ -20,6 +25,11 @@ $ENDCMP
 #
 $CMP R_PACK8
 D 8 resistors Pack
+K R DEV
+$ENDCMP
+#
+$CMP THERMISTOR
+D Resistance
 K R DEV
 $ENDCMP
 #

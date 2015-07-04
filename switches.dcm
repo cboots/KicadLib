@@ -1,5 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP SP3T
+D 3 position switch, SP3T
+K switch SP3T
+$ENDCMP
+#
+$CMP SPST
+D Interrupteur simple
+K switch
+$ENDCMP
+#
 $CMP SW_DIP_x1
 D DIP switch - 1x
 K DIP switch
@@ -64,6 +74,20 @@ $CMP SW_DIP_x9
 D DIP switch - 9x
 K DIP switch
 F http://www.ctscorp.com/components/Datasheets/206-208.pdf
+$ENDCMP
+#
+$CMP SW_PUSH
+D Push Button
+K Switch
+$ENDCMP
+#
+$CMP Switch_DPST
+D Double Pole Single Throw (DPST) Switch
+K switch
+$ENDCMP
+#
+$CMP Switch_SPDT_x2
+D Double Single Pole Double Throw (SPDT) switch
 $ENDCMP
 #
 #End Doc Library
