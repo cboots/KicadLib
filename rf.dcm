@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 0900PC15J0013
+D BALUN for CC1120
+$ENDCMP
+#
 $CMP CC1120
 D 900MHz Zigbee Transceiver by TI
 $ENDCMP
@@ -14,6 +18,14 @@ $ENDCMP
 #
 $CMP CC2592
 D 2.4GHz LNA/PA Range Extender by TI
+$ENDCMP
+#
+$CMP LDB18
+D Chip Balun for use with CC2520
+$ENDCMP
+#
+$CMP LDB182G4520C-110
+D Chip Balun for use with CC2520
 $ENDCMP
 #
 #End Doc Library
