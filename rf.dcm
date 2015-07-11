@@ -20,6 +20,10 @@ $CMP CC2592
 D 2.4GHz LNA/PA Range Extender by TI
 $ENDCMP
 #
+$CMP EPCOS_B3588
+D 900MHz SAW Filter
+$ENDCMP
+#
 $CMP LDB18
 D Chip Balun for use with CC2520
 $ENDCMP
