@@ -1,4 +1,4 @@
-(module R3_LH_0402 (layer F.Cu) (tedit 559B69B6)
+(module R3_LH_0402 (layer F.Cu) (tedit 55A299FA)
   (descr "Resistor SMD 0402 3-pin layout, reflow soldering, Vishay (see dcrcw.pdf)")
   (tags "resistor 0402 jumper")
   (attr smd)
@@ -8,6 +8,7 @@
   (fp_text value R3_LH_0402 (at 0 1.8) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
+  (fp_line (start 0.775 -0.525) (end 0.375 -0.525) (layer F.SilkS) (width 0.15))
   (fp_line (start 1.075 -0.3) (end 1.075 -0.8) (layer F.SilkS) (width 0.15))
   (fp_line (start 0 -0.275) (end 0 -0.775) (layer F.SilkS) (width 0.15))
   (fp_line (start 1.1 -1.7) (end 0 -1.7) (layer F.CrtYd) (width 0.05))

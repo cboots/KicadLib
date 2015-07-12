@@ -28,6 +28,11 @@ D Resistor
 K R DEV
 $ENDCMP
 #
+$CMP R3-S
+D Resistor
+K R DEV
+$ENDCMP
+#
 $CMP R_PACK4
 D 4 resistors Pack
 K R DEV
