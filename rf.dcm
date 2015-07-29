@@ -12,6 +12,10 @@ $CMP CC1190
 D 900MHz Range Extender by TI
 $ENDCMP
 #
+$CMP CC1200
+D 900MHz Zigbee Transceiver by TI
+$ENDCMP
+#
 $CMP CC2520
 D 2.4GHz Zigbee Transceiver by TI
 $ENDCMP
