@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 04/07/2013 11:45:52
+EESchema-DOCLIB  Version 2.0
 #
 $CMP 1408
 D CDA 8 bits
@@ -61,12 +61,6 @@ F op_amps/lm324.pdf
 $ENDCMP
 #
 $CMP LM2903
-D Dual Voltage Comparator
-K Comp
-F ns/lm193.pdf
-$ENDCMP
-#
-$CMP LM2903SMALL
 D Dual Voltage Comparator
 K Comp
 F ns/lm193.pdf
@@ -194,6 +188,10 @@ $CMP LMC6082
 D Dual Op amp (low power)
 K ampliop
 F op_amps/lmc6082.pdf
+$ENDCMP
+#
+$CMP LTC4413
+D Dual 2.6A, 2.5V to 5.5V,Ideal Diodes in 3mm × 3mm DFN
 $ENDCMP
 #
 $CMP MAX471
